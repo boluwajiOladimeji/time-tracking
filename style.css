@@ -17,6 +17,10 @@ img {
   width: 100%;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 :root {
   --blue: hsl(246, 80%, 60%);
   --softblue-play: hsl(195, 74%, 62%);
