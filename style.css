@@ -97,8 +97,7 @@ html {
 }
 
 .icon {
-  width: 5rem;
-  height: 100%;
+  width: 4rem;
   object-fit: cover;
   margin-left: auto;
   margin-right: 3rem;
