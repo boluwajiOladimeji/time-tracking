@@ -67,11 +67,11 @@ html {
 }
 
 .person-text p {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 .person-text h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   text-transform: capitalize;
 }
 
