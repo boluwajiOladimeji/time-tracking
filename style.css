@@ -221,4 +221,12 @@ html {
     margin-top: 2rem;
     padding-bottom: 1.5rem;
   }
+
+  .person-text p {
+    font-size: 2rem;
+  }
+
+  .person-text h1 {
+    font-size: 3rem;
+  }
 }
